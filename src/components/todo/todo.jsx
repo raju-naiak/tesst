@@ -6,7 +6,7 @@ export function TodoList(){
             <h2>Todo List</h2>
             <div>
                 <input type="text" placeholder="Add Task Element"></input>
-                <button>Add</button>
+                <button>Add Button</button>
             </div>
         </div>
     )
